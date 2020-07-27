@@ -15,3 +15,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+* An engineer hired by @ant financial. 
+* Years of development experience with Go.
+* Open source maniac, projects include : [elasticsql](http://github.com/cch123/elasticsql), [asm-cli-rust](http://github.com/cch123/asm-cli-rust)
+* Coauthor of open source book [advanced go programming](https://github.com/chai2010/advanced-go-programming-book) in Chinese
+* Currently working on [mosn](http://github.com/mosn/mosn).
+
+[![Regemc's github stats](https://github-readme-stats.vercel.app/api?username=Regemc)](https://github.com/Regemc)
